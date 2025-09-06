@@ -1,6 +1,6 @@
 __pycache__/
-*.exe
-ffmpeg.exe
-ffprobe.exe
-*.ico
-*.png
+# *.exe
+# ffmpeg.exe
+# ffprobe.exe
+# *.ico
+# *.png
